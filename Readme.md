@@ -11,4 +11,4 @@ Created automatically using create-github
 ### Process
 1. Clone or Download
 2. Download yolov3.weights file [https://pjreddie.com/media/files/yolov3.weights] and place in root.
-3. Run the script
+3. Run the script <code> python main.py </code>
